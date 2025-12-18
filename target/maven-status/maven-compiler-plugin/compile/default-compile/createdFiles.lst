@@ -1,0 +1,13 @@
+me\dio\mockito\exemplos\Conta.class
+me\dio\mockito\exemplos\ServicoEnvioEmail.class
+me\dio\mockito\exemplos\GeradorDeNumeros.class
+me\dio\mockito\exemplos\PlataformaDeEnvio.class
+me\dio\mockito\exemplos\DadosLocalizacao.class
+me\dio\mockito\exemplos\EnviarMensagem.class
+me\dio\mockito\exemplos\Pessoa.class
+module-info.class
+me\dio\mockito\exemplos\Formato.class
+me\dio\mockito\exemplos\Email.class
+me\dio\mockito\exemplos\CadastrarPessoa.class
+me\dio\mockito\exemplos\ApiDosCorreios.class
+me\dio\mockito\exemplos\Mensagem.class
