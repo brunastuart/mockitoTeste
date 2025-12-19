@@ -1,4 +1,0 @@
---patch-module
-me.dio.mockito.exemplos=_
---add-reads
-me.dio.mockito.exemplos=ALL-UNNAMED
