@@ -108,7 +108,6 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <!-- mainClass removed: define property 'main.class' if building an executable jar -->
                         </manifest>
                     </archive>
                 </configuration>
